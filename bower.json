@@ -1,0 +1,21 @@
+{
+  "name": "marchmadness",
+  "version": "0.0.0",
+  "authors": [
+    "BethJohnson <BethJohnson3@gmail.com>"
+  ],
+  "description": "march madness for josh",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2",
+    "showdown": "~0.3.4"
+  }
+}
